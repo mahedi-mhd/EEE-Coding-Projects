@@ -6,4 +6,4 @@ Circuit Simulations: RC/RLC circuits, power analysis.
 IoT Projects: Arduino, Raspberry Pi (e.g., Home Automation).
 Embedded Systems: LED control, motor speed control.
 Learning Resources: Cheat sheets and guides.
-git clone https://github.com/your-username/EEE-Coding-Projects.git  
+git clone https://github.com/mahedi-mhd/EEE-Coding-Projects.git  
